@@ -1,0 +1,21 @@
+{
+  "name": "wil_back",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
